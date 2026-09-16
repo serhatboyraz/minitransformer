@@ -1,0 +1,201 @@
+bin/Release/net10.0/MiniTransformer.deps.json
+  s_4ded15291921cc::t_2a1007d0099789 1-23
+bin/Release/net10.0/MiniTransformer.runtimeconfig.json
+  s_4ded15291921cc::t_c4c3e1e83a154a 1-14
+bin/Release/net10.0/data/input.txt
+  s_4ded15291921cc::t_838f11f419fb4d 1-184
+model.txt
+  s_4ded15291921cc::t_4888561a7e7ed0 1-2890
+obj/MiniTransformer.csproj.nuget.dgspec.json
+  s_4ded15291921cc::t_35a98bf5d8187b 1-348
+obj/MiniTransformer.csproj.nuget.g.props
+  s_4ded15291921cc::t_883945fcff60bc 1-16
+obj/MiniTransformer.csproj.nuget.g.targets
+  s_4ded15291921cc::t_66194dab241d41 1-2
+obj/Release/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+  s_4ded15291921cc::t_2ee9ed6bc9d242 1-4
+obj/Release/net10.0/MiniTransformer.AssemblyInfo.cs
+  s_4ded15291921cc::t_16fac7f3378238 1-22
+obj/Release/net10.0/MiniTransformer.AssemblyInfoInputs.cache
+  s_4ded15291921cc::t_f0761d456d36d4 1
+obj/Release/net10.0/MiniTransformer.GeneratedMSBuildEditorConfig.editorconfig
+  s_4ded15291921cc::t_1c57509a84f888 1-17
+obj/Release/net10.0/MiniTransformer.GlobalUsings.g.cs
+  s_4ded15291921cc::t_a76ab6aa17b153 1-8
+obj/Release/net10.0/MiniTransformer.csproj.CoreCompileInputs.cache
+  s_4ded15291921cc::t_74a68e5e7ff51e 1
+obj/Release/net10.0/MiniTransformer.csproj.FileListAbsolute.txt
+  s_4ded15291921cc::t_7f6dd11f570e46 1-15
+obj/Release/net10.0/MiniTransformer.genruntimeconfig.cache
+  s_4ded15291921cc::t_11a1dd52ea3a23 1
+obj/project.assets.json
+  s_4ded15291921cc::t_bdf8ee0da841bc 1-354
+obj/project.nuget.cache
+  s_4ded15291921cc::t_9a93fd88efd7d4 1-8
+site/404.html
+  s_4ded15291921cc::t_710aaa83186783 1-1698
+site/assets/javascripts/bundle.79ae519e.min.js
+  s_4ded15291921cc::t_e2e0197630b934 1-16
+site/assets/javascripts/bundle.79ae519e.min.js.map
+  s_4ded15291921cc::t_2687c6b90ebbd5 1-7
+site/assets/javascripts/lunr/min/lunr.ar.min.js
+  s_4ded15291921cc::t_09f881b6440a7b 1
+site/assets/javascripts/lunr/min/lunr.da.min.js
+  s_4ded15291921cc::t_77ac21c5371713 1-18
+site/assets/javascripts/lunr/min/lunr.de.min.js
+  s_4ded15291921cc::t_a871e6618f97fd 1-18
+site/assets/javascripts/lunr/min/lunr.du.min.js
+  s_4ded15291921cc::t_dc1782bf765103 1-18
+site/assets/javascripts/lunr/min/lunr.el.min.js
+  s_4ded15291921cc::t_c4f39d8d76a3ab 1
+site/assets/javascripts/lunr/min/lunr.es.min.js
+  s_4ded15291921cc::t_fb8f515052b58e 1-18
+site/assets/javascripts/lunr/min/lunr.fi.min.js
+  s_4ded15291921cc::t_df83130f45d724 1-18
+site/assets/javascripts/lunr/min/lunr.fr.min.js
+  s_4ded15291921cc::t_e91737da893874 1-18
+site/assets/javascripts/lunr/min/lunr.he.min.js
+  s_4ded15291921cc::t_e03fb20aeba7e8 1
+site/assets/javascripts/lunr/min/lunr.hi.min.js
+  s_4ded15291921cc::t_20af4c413ec98b 1
+site/assets/javascripts/lunr/min/lunr.hu.min.js
+  s_4ded15291921cc::t_876d2f59d6d9bb 1-18
+site/assets/javascripts/lunr/min/lunr.hy.min.js
+  s_4ded15291921cc::t_c8419f3cf1d959 1
+site/assets/javascripts/lunr/min/lunr.it.min.js
+  s_4ded15291921cc::t_061e2055b8bd80 1-18
+site/assets/javascripts/lunr/min/lunr.ja.min.js
+  s_4ded15291921cc::t_38edf8ce5c1d2c 1
+site/assets/javascripts/lunr/min/lunr.jp.min.js
+  s_4ded15291921cc::t_b3f3313f53a6fb 1
+site/assets/javascripts/lunr/min/lunr.kn.min.js
+  s_4ded15291921cc::t_4bc388ada1e27d 1
+site/assets/javascripts/lunr/min/lunr.ko.min.js
+  s_4ded15291921cc::t_0bdcccf26cb8ab 1
+site/assets/javascripts/lunr/min/lunr.multi.min.js
+  s_4ded15291921cc::t_33d69f88f0eda7 1
+site/assets/javascripts/lunr/min/lunr.nl.min.js
+  s_4ded15291921cc::t_d3aff548ec61b9 1-18
+site/assets/javascripts/lunr/min/lunr.no.min.js
+  s_4ded15291921cc::t_faedb53f5f3bdc 1-18
+site/assets/javascripts/lunr/min/lunr.pt.min.js
+  s_4ded15291921cc::t_dadcde65a12ac7 1-18
+site/assets/javascripts/lunr/min/lunr.ro.min.js
+  s_4ded15291921cc::t_9995e788d3f143 1-18
+site/assets/javascripts/lunr/min/lunr.ru.min.js
+  s_4ded15291921cc::t_50e69fd0ea5eb1 1-18
+site/assets/javascripts/lunr/min/lunr.sa.min.js
+  s_4ded15291921cc::t_8d162b435a342b 1
+site/assets/javascripts/lunr/min/lunr.stemmer.support.min.js
+  s_4ded15291921cc::t_35be3cc1f580ab 1
+site/assets/javascripts/lunr/min/lunr.sv.min.js
+  s_4ded15291921cc::t_7aecef473b5764 1-18
+site/assets/javascripts/lunr/min/lunr.ta.min.js
+  s_4ded15291921cc::t_af12987543ae04 1
+site/assets/javascripts/lunr/min/lunr.te.min.js
+  s_4ded15291921cc::t_ac71af28dbcc78 1
+site/assets/javascripts/lunr/min/lunr.th.min.js
+  s_4ded15291921cc::t_d343df9d23c6c9 1
+site/assets/javascripts/lunr/min/lunr.tr.min.js
+  s_4ded15291921cc::t_96f8abf382735b 1-18
+site/assets/javascripts/lunr/min/lunr.vi.min.js
+  s_4ded15291921cc::t_62629518bda081 1
+site/assets/javascripts/lunr/min/lunr.zh.min.js
+  s_4ded15291921cc::t_d052b83c2d70ba 1
+site/assets/javascripts/lunr/tinyseg.js
+  s_4ded15291921cc::t_a3b043ae11c0e4 1-206
+site/assets/javascripts/lunr/wordcut.js
+  s_4ded15291921cc::t_01fc8656edba94 1-6708
+site/assets/javascripts/workers/search.2c215733.min.js
+  s_4ded15291921cc::t_7df06ca3e12ad1 1-42
+site/assets/javascripts/workers/search.2c215733.min.js.map
+  s_4ded15291921cc::t_a2a07448ca94fb 1-7
+site/assets/stylesheets/main.484c7ddc.min.css
+  s_4ded15291921cc::t_6085ccdea2fe4c 1
+site/assets/stylesheets/main.484c7ddc.min.css.map
+  s_4ded15291921cc::t_f2f65f659ed90d 1
+site/assets/stylesheets/palette.ab4e12ef.min.css
+  s_4ded15291921cc::t_2ad34a6c7681be 1
+site/assets/stylesheets/palette.ab4e12ef.min.css.map
+  s_4ded15291921cc::t_89aa045dfc4ebb 1
+site/baslangic/cli/index.html
+  s_4ded15291921cc::t_634bd2de3cce91 1-2166
+site/baslangic/ilk-calistirma/index.html
+  s_4ded15291921cc::t_8ea5f3b5be6cca 1-2157
+site/baslangic/kurulum/index.html
+  s_4ded15291921cc::t_ffe1e593f7dc05 1-2087
+site/baslangic/proje-nedir/index.html
+  s_4ded15291921cc::t_01faa0c1f1f671 1-2031
+site/egitim/autograd/index.html
+  s_4ded15291921cc::t_3dbf44a0ff5a5b 1-2393
+site/egitim/dongu/index.html
+  s_4ded15291921cc::t_c124a7b932b901 1-2380
+site/egitim/loss/index.html
+  s_4ded15291921cc::t_5a631badde99f6 1-2321
+site/egitim/optimizer/index.html
+  s_4ded15291921cc::t_6d2262571edbe1 1-2415
+site/ileri/deneyler/index.html
+  s_4ded15291921cc::t_753d11846c6f5d 1-2772
+site/ileri/gpu/index.html
+  s_4ded15291921cc::t_7506bd7519be30 1-2447
+site/ileri/performans/index.html
+  s_4ded15291921cc::t_729ec8dc311cdc 1-2727
+site/index.html
+  s_4ded15291921cc::t_86924332f0a950 1-2048
+site/javascripts/mathjax.js
+  s_4ded15291921cc::t_987c836d5ebc97 1-19
+site/kullanim/checkpoint/index.html
+  s_4ded15291921cc::t_71bbe5e5dc7465 1-2458
+site/kullanim/kendi-verin/index.html
+  s_4ded15291921cc::t_acd99980847819 1-2296
+site/kullanim/loss-egrisi/index.html
+  s_4ded15291921cc::t_a2380f07da792c 1-2367
+site/kullanim/uretim/index.html
+  s_4ded15291921cc::t_434641f7369b67 1-2468
+site/mimari/attention/index.html
+  s_4ded15291921cc::t_602ac353a12d7c 1-2325
+site/mimari/blok/index.html
+  s_4ded15291921cc::t_bf691ce0cd02cc 1-2412
+site/mimari/embedding/index.html
+  s_4ded15291921cc::t_6f7b4af0f89482 1-2184
+site/mimari/genel-bakis/index.html
+  s_4ded15291921cc::t_50b9693e4acb66 1-2202
+site/mimari/model/index.html
+  s_4ded15291921cc::t_048976e6e3d6e1 1-2425
+site/mimari/tokenizer/index.html
+  s_4ded15291921cc::t_96a5dda197e171 1-2183
+site/referans/kod-haritasi/index.html
+  s_4ded15291921cc::t_b09968e369af84 1-2632
+site/referans/sozluk/index.html
+  s_4ded15291921cc::t_2ba8ce42f8fd30 1-2548
+site/referans/sss/index.html
+  s_4ded15291921cc::t_26a44e85bdf043 1-2211
+site/search/search_index.json
+  s_4ded15291921cc::t_bd1a1bcfba1b24 1
+site/sitemap.xml
+  s_4ded15291921cc::t_6b4b26ba372f5d 1-3
+site/temeller/dil-modeli/index.html
+  s_4ded15291921cc::t_b165fd08767ae8 1-2185
+site/temeller/matematik/index.html
+  s_4ded15291921cc::t_449325d1be3da6 1-2427
+site/temeller/sinir-agi/index.html
+  s_4ded15291921cc::t_ad6befb1a8c06e 1-2268
+site/temeller/yapay-zeka-nedir/index.html
+  s_4ded15291921cc::t_0515d9bfd0a747 1-2127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "33652c446e5f12b849d7f26493d8db535119bb25",
+  "prompts": {},
+  "sessions": {
+    "s_4ded15291921cc": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "0fb3a3f1-e55c-4d90-ba0e-8835c675a48e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Serhat Boyraz <serhat.boyraz@consultant.boyner.com.tr>"
+    }
+  }
+}
