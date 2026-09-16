@@ -1,0 +1,19 @@
+.github/workflows/deploy-pages.yml
+  s_1a51553c6a2ccb::t_d1f700ec20812a 1-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b81b915feecab76d20c652a590dc4bcda2eb71d2",
+  "prompts": {},
+  "sessions": {
+    "s_1a51553c6a2ccb": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "8afcfe0e-b6d3-4bdd-bce7-78ddb9588746",
+        "model": "mai-code-1.1-flash"
+      },
+      "human_author": "Serhat Boyraz <serhat.boyraz@consultant.boyner.com.tr>"
+    }
+  }
+}
