@@ -1,0 +1,122 @@
+site_name: MiniTransformer
+site_description: Sıfırdan C# ile yazılmış, kütüphanesiz bir dil modeli — hiç bilmeyenler için baştan sona anlatım
+site_author: MiniTransformer
+docs_dir: docs
+site_dir: site
+use_directory_urls: true
+
+theme:
+  name: material
+  language: tr
+  icon:
+    logo: material/robot-outline
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.code.annotate
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Koyu temaya geç
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Açık temaya geç
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      permalink_title: Bu başlığa bağlantı
+      toc_depth: 3
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+  generator: false
+
+nav:
+  - Ana Sayfa: index.md
+  - Başlangıç:
+      - Bu Proje Nedir?: baslangic/proje-nedir.md
+      - Kurulum: baslangic/kurulum.md
+      - İlk Çalıştırma: baslangic/ilk-calistirma.md
+      - Komut Satırı: baslangic/cli.md
+  - Temeller:
+      - Yapay Zeka Nedir?: temeller/yapay-zeka-nedir.md
+      - Sinir Ağı Nedir?: temeller/sinir-agi.md
+      - Dil Modeli Nedir?: temeller/dil-modeli.md
+      - Gerekli Matematik: temeller/matematik.md
+  - Mimari:
+      - Genel Bakış: mimari/genel-bakis.md
+      - Tokenizer: mimari/tokenizer.md
+      - Embedding: mimari/embedding.md
+      - Attention: mimari/attention.md
+      - Transformer Bloğu: mimari/blok.md
+      - Model: mimari/model.md
+  - Eğitim:
+      - Loss Fonksiyonu: egitim/loss.md
+      - Autograd: egitim/autograd.md
+      - Optimizer: egitim/optimizer.md
+      - Eğitim Döngüsü: egitim/dongu.md
+  - Kullanım:
+      - Metin Üretimi: kullanim/uretim.md
+      - Checkpoint: kullanim/checkpoint.md
+      - Loss Eğrisi: kullanim/loss-egrisi.md
+      - Kendi Verinle Eğitmek: kullanim/kendi-verin.md
+  - İleri Seviye:
+      - Performans: ileri/performans.md
+      - GPU: ileri/gpu.md
+      - Deneyler: ileri/deneyler.md
+  - Referans:
+      - Kod Haritası: referans/kod-haritasi.md
+      - Sözlük: referans/sozluk.md
+      - Sık Sorulanlar: referans/sss.md

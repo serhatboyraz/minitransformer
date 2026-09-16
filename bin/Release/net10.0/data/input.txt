@@ -1,0 +1,184 @@
+araç kaydı biçimi: marka model yıl yakıt vites kasa güç fiyat
+bir aracın en önemli bilgileri markası ve modelidir.
+motor hacmi aracın gücünü ve vergisini belirler.
+dizel motorlar uzun yolda daha az yakıt tüketir.
+benzinli motorlar şehir içinde daha sessiz çalışır.
+hibrit araçlar hem elektrik hem benzin ile çalışır.
+elektrikli araçlar egzoz gazı salmaz ve bakımı ucuzdur.
+otomatik vites şehir trafiğinde sürücüyü yormaz.
+manuel vites daha ucuzdur ve arızası daha azdır.
+suv kasa yüksek sürüş konumu ve geniş bagaj sunar.
+sedan kasa uzun yolda daha konforlu ve sessizdir.
+hatchback kasa şehir içinde park etmesi kolaydır.
+station kasa bagaj hacmi en geniş olan tiptir.
+pickup kasa yük taşımak için tasarlanmıştır.
+aracın yaşı arttıkça ikinci el değeri düşer.
+kilometresi düşük araç genelde daha pahalı satılır.
+periyodik bakım her on beş bin kilometrede yapılır.
+yağ ve filtre değişimi motorun ömrünü uzatır.
+lastikler dört mevsim veya kış lastiği olabilir.
+fren balatası aşınınca hemen değiştirilmelidir.
+akü ömrü ortalama dört yıldır ve kışın zorlanır.
+triger kayışı zamanında değişmezse motor hasar görür.
+muayene iki yılda bir yapılır ve zorunludur.
+sigorta ve kasko aracı maddi zararlara karşı korur.
+yakıt tüketimi yüz kilometrede litre olarak ölçülür.
+güç beygir gücü yani hp birimi ile ifade edilir.
+tork aracın çekiş gücünü gösteren değerdir.
+çekiş önden arkadan veya dört tekerlekten olabilir.
+klima direksiyon ve abs artık standart donanımdır.
+geri görüş kamerası park etmeyi kolaylaştırır.
+şerit takip sistemi uzun yolda güvenliği artırır.
+renault clio 2021 benzin otomatik hatchback 100hp 780bin tl
+renault megane 2020 dizel otomatik sedan 115hp 950bin tl
+renault symbol 2019 benzin manuel sedan 90hp 620bin tl
+renault taliant 2022 benzin otomatik sedan 90hp 860bin tl
+renault captur 2021 benzin otomatik suv 140hp 1150bin tl
+renault kadjar 2019 dizel otomatik suv 116hp 980bin tl
+fiat egea 2021 dizel manuel sedan 95hp 810bin tl
+fiat egea 2022 benzin otomatik hatchback 110hp 920bin tl
+fiat panda 2018 benzin manuel hatchback 69hp 480bin tl
+fiat doblo 2019 dizel manuel mpv 95hp 690bin tl
+fiat fiorino 2020 dizel manuel mpv 80hp 640bin tl
+fiat 500 2021 benzin otomatik hatchback 70hp 750bin tl
+volkswagen polo 2020 benzin otomatik hatchback 95hp 890bin tl
+volkswagen golf 2019 benzin otomatik hatchback 130hp 1050bin tl
+volkswagen passat 2021 dizel otomatik sedan 150hp 1650bin tl
+volkswagen tiguan 2020 dizel otomatik suv 150hp 1780bin tl
+volkswagen troc 2022 benzin otomatik suv 150hp 1620bin tl
+volkswagen caddy 2018 dizel manuel mpv 102hp 720bin tl
+toyota corolla 2021 hibrit otomatik sedan 122hp 1280bin tl
+toyota corolla 2019 benzin manuel sedan 132hp 880bin tl
+toyota yaris 2022 hibrit otomatik hatchback 116hp 1150bin tl
+toyota chr 2020 hibrit otomatik suv 122hp 1340bin tl
+toyota rav4 2021 hibrit otomatik suv 222hp 2250bin tl
+toyota hilux 2019 dizel manuel pickup 150hp 1450bin tl
+honda civic 2020 benzin otomatik sedan 129hp 1180bin tl
+honda city 2022 benzin otomatik sedan 121hp 1090bin tl
+honda crv 2019 benzin otomatik suv 173hp 1560bin tl
+honda jazz 2021 hibrit otomatik hatchback 109hp 980bin tl
+honda hrv 2022 hibrit otomatik suv 131hp 1490bin tl
+ford focus 2020 dizel otomatik hatchback 120hp 1020bin tl
+ford fiesta 2019 benzin otomatik hatchback 100hp 740bin tl
+ford kuga 2021 hibrit otomatik suv 190hp 1720bin tl
+ford puma 2022 benzin otomatik suv 125hp 1380bin tl
+ford ranger 2020 dizel otomatik pickup 213hp 1890bin tl
+ford tourneo 2018 dizel manuel mpv 125hp 980bin tl
+opel corsa 2021 benzin otomatik hatchback 100hp 830bin tl
+opel astra 2019 dizel manuel hatchback 110hp 760bin tl
+opel mokka 2022 benzin otomatik suv 130hp 1240bin tl
+opel grandland 2021 dizel otomatik suv 130hp 1310bin tl
+opel crossland 2020 benzin otomatik suv 110hp 990bin tl
+hyundai i10 2020 benzin otomatik hatchback 67hp 620bin tl
+hyundai i20 2022 benzin otomatik hatchback 100hp 880bin tl
+hyundai bayon 2022 benzin otomatik suv 100hp 1020bin tl
+hyundai tucson 2021 hibrit otomatik suv 180hp 1780bin tl
+hyundai elantra 2020 benzin otomatik sedan 127hp 1050bin tl
+hyundai kona 2021 elektrik otomatik suv 204hp 1950bin tl
+kia picanto 2019 benzin otomatik hatchback 67hp 590bin tl
+kia rio 2020 benzin otomatik hatchback 100hp 790bin tl
+kia stonic 2022 benzin otomatik suv 100hp 1080bin tl
+kia sportage 2021 dizel otomatik suv 136hp 1690bin tl
+kia ceed 2019 dizel otomatik station 136hp 940bin tl
+nissan micra 2019 benzin manuel hatchback 71hp 610bin tl
+nissan juke 2021 benzin otomatik suv 117hp 1150bin tl
+nissan qashqai 2020 dizel otomatik suv 115hp 1290bin tl
+nissan xtrail 2018 dizel otomatik suv 130hp 1240bin tl
+peugeot 208 2021 benzin otomatik hatchback 100hp 870bin tl
+peugeot 301 2019 dizel manuel sedan 100hp 680bin tl
+peugeot 2008 2022 benzin otomatik suv 130hp 1270bin tl
+peugeot 3008 2020 dizel otomatik suv 130hp 1540bin tl
+peugeot 508 2021 dizel otomatik sedan 130hp 1720bin tl
+citroen c3 2020 benzin otomatik hatchback 110hp 810bin tl
+citroen c4 2022 benzin otomatik hatchback 130hp 1180bin tl
+citroen c5 2021 dizel otomatik suv 130hp 1480bin tl
+citroen berlingo 2019 dizel manuel mpv 100hp 780bin tl
+dacia sandero 2021 lpg manuel hatchback 100hp 690bin tl
+dacia duster 2020 dizel manuel suv 115hp 920bin tl
+dacia jogger 2022 lpg manuel mpv 100hp 950bin tl
+dacia logan 2019 dizel manuel sedan 90hp 620bin tl
+skoda fabia 2020 benzin otomatik hatchback 95hp 790bin tl
+skoda octavia 2021 dizel otomatik sedan 150hp 1380bin tl
+skoda superb 2019 dizel otomatik sedan 150hp 1420bin tl
+skoda kamiq 2022 benzin otomatik suv 110hp 1190bin tl
+skoda karoq 2021 dizel otomatik suv 150hp 1460bin tl
+seat ibiza 2020 benzin otomatik hatchback 95hp 820bin tl
+seat leon 2021 benzin otomatik hatchback 130hp 1150bin tl
+seat arona 2022 benzin otomatik suv 110hp 1090bin tl
+seat ateca 2019 dizel otomatik suv 150hp 1180bin tl
+bmw 118i 2021 benzin otomatik hatchback 140hp 1850bin tl
+bmw 320i 2020 benzin otomatik sedan 184hp 2350bin tl
+bmw 520i 2019 benzin otomatik sedan 184hp 2680bin tl
+bmw x1 2022 benzin otomatik suv 136hp 2450bin tl
+bmw x3 2020 dizel otomatik suv 190hp 3150bin tl
+mercedes a180 2021 benzin otomatik hatchback 136hp 1980bin tl
+mercedes c200 2020 benzin otomatik sedan 184hp 2750bin tl
+mercedes e200 2019 benzin otomatik sedan 197hp 3250bin tl
+mercedes gla 2022 benzin otomatik suv 163hp 2580bin tl
+mercedes glc 2021 dizel otomatik suv 194hp 3480bin tl
+audi a3 2020 benzin otomatik hatchback 150hp 1920bin tl
+audi a4 2021 benzin otomatik sedan 150hp 2480bin tl
+audi a6 2019 dizel otomatik sedan 204hp 3120bin tl
+audi q2 2022 benzin otomatik suv 116hp 1880bin tl
+audi q5 2020 dizel otomatik suv 190hp 3260bin tl
+volvo s60 2021 hibrit otomatik sedan 250hp 2650bin tl
+volvo xc40 2022 elektrik otomatik suv 231hp 2890bin tl
+volvo xc60 2020 hibrit otomatik suv 253hp 3180bin tl
+mazda 2 2019 benzin manuel hatchback 90hp 680bin tl
+mazda 3 2021 benzin otomatik sedan 122hp 1180bin tl
+mazda cx3 2020 benzin otomatik suv 121hp 1090bin tl
+mazda cx5 2019 dizel otomatik suv 150hp 1340bin tl
+suzuki swift 2020 hibrit manuel hatchback 83hp 720bin tl
+suzuki vitara 2021 hibrit otomatik suv 129hp 1180bin tl
+suzuki sx4 2018 benzin otomatik suv 120hp 890bin tl
+mitsubishi l200 2019 dizel manuel pickup 154hp 1280bin tl
+mitsubishi asx 2020 benzin otomatik suv 150hp 1080bin tl
+togg t10x 2023 elektrik otomatik suv 218hp 1750bin tl
+togg t10f 2024 elektrik otomatik sedan 218hp 1890bin tl
+tesla model3 2022 elektrik otomatik sedan 283hp 2450bin tl
+tesla modely 2023 elektrik otomatik suv 299hp 2980bin tl
+chery tiggo7 2022 benzin otomatik suv 147hp 1290bin tl
+chery tiggo8 2023 benzin otomatik suv 186hp 1620bin tl
+mg zs 2022 benzin otomatik suv 106hp 1140bin tl
+mg 4 2023 elektrik otomatik hatchback 204hp 1680bin tl
+cupra formentor 2022 benzin otomatik suv 150hp 1890bin tl
+jeep renegade 2020 benzin otomatik suv 120hp 1350bin tl
+jeep compass 2021 dizel otomatik suv 140hp 1720bin tl
+range evoque 2019 dizel otomatik suv 180hp 2950bin tl
+mini cooper 2021 benzin otomatik hatchback 136hp 1780bin tl
+alfa giulia 2020 dizel otomatik sedan 180hp 2380bin tl
+en çok satan kasa tipi son yıllarda suv olmuştur.
+elektrikli araç satışları her yıl hızla artmaktadır.
+hibrit araçlar şehir içinde çok az yakıt harcar.
+lpg dönüşümü yakıt maliyetini yarı yarıya düşürür.
+dizel araç yılda yirmi bin kilometreden fazla yapana uygundur.
+benzinli araç az kilometre yapan sürücüler için mantıklıdır.
+ikinci el alırken ekspertiz raporu mutlaka istenmelidir.
+boyasız ve tramersiz araç her zaman daha değerlidir.
+araç sorgulama ile hasar kaydı ve muayene durumu görülebilir.
+motor yağı seviyesi ayda bir kontrol edilmelidir.
+lastik diş derinliği dört milimetrenin altına düşmemelidir.
+soğutma suyu ve antifriz kışa girmeden kontrol edilir.
+silecek lastikleri yılda bir kez değiştirilmelidir.
+yakıt filtresi dizel araçlarda daha sık değişir.
+klima gazı iki yılda bir kontrol edilir.
+rot balans ayarı lastik ömrünü uzatır.
+debriyaj balatası manuel vitesli araçlarda aşınır.
+şanzıman yağı otomatik viteste altmış bin kilometrede değişir.
+egzoz emisyon değeri muayenede ölçülür.
+far ayarı gece sürüşünde güvenlik için önemlidir.
+renault clio 2021 benzin otomatik hatchback 100hp 780bin tl
+fiat egea 2021 dizel manuel sedan 95hp 810bin tl
+toyota corolla 2021 hibrit otomatik sedan 122hp 1280bin tl
+volkswagen passat 2021 dizel otomatik sedan 150hp 1650bin tl
+ford focus 2020 dizel otomatik hatchback 120hp 1020bin tl
+hyundai tucson 2021 hibrit otomatik suv 180hp 1780bin tl
+dacia duster 2020 dizel manuel suv 115hp 920bin tl
+bmw 320i 2020 benzin otomatik sedan 184hp 2350bin tl
+mercedes c200 2020 benzin otomatik sedan 184hp 2750bin tl
+togg t10x 2023 elektrik otomatik suv 218hp 1750bin tl
+peugeot 3008 2020 dizel otomatik suv 130hp 1540bin tl
+skoda octavia 2021 dizel otomatik sedan 150hp 1380bin tl
+audi a4 2021 benzin otomatik sedan 150hp 2480bin tl
+kia sportage 2021 dizel otomatik suv 136hp 1690bin tl
+opel corsa 2021 benzin otomatik hatchback 100hp 830bin tl

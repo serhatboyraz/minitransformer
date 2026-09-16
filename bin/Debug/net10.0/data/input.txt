@@ -1,0 +1,88 @@
+the transformer is a neural network that learns from text.
+it reads a sequence of tokens and predicts the next token.
+attention lets every token look back at the tokens before it.
+each head learns a different pattern in the sequence.
+the model stacks blocks of attention and feed forward layers.
+layer norm keeps the activations stable while the model trains.
+residual connections let the gradient flow through deep stacks.
+the embedding table turns a token into a vector of numbers.
+the position embedding tells the model where a token sits.
+the output head turns a vector back into scores over the vocabulary.
+softmax turns those scores into probabilities.
+cross entropy measures how surprised the model is by the true token.
+backpropagation sends the error back through every layer.
+adam updates each weight with a running average of the gradient.
+gradient clipping stops a single bad batch from breaking the model.
+a small model on a small corpus learns the shape of the text.
+a large model on a large corpus learns the shape of the world.
+training is a loop: sample a batch, compute the loss, step the optimizer.
+the loss falls quickly at first and then slowly for a long time.
+sampling with a low temperature makes the model repeat itself.
+sampling with a high temperature makes the model wander.
+top k sampling keeps only the most likely tokens at each step.
+the model has no memory beyond the block size of its context.
+every prediction depends only on the tokens inside that window.
+a causal mask hides the future so the model cannot cheat.
+without the mask the model would simply copy the answer.
+the query asks a question and the key answers it.
+the value carries the information that is mixed into the output.
+the dot product of a query and a key is an attention score.
+the scores are scaled so the softmax does not saturate.
+the feed forward layer gives the model room to think.
+it expands the vector, applies a nonlinearity, and shrinks it back.
+gelu is a smooth gate that lets small signals through.
+the final layer norm cleans up the vector before the output head.
+weights start small and random so no neuron dominates.
+the model learns letters first, then words, then short phrases.
+later it learns punctuation and the rhythm of a sentence.
+data is the teacher and the loss is the only lesson.
+a model cannot learn what the data never showed it.
+more layers give depth and more heads give width.
+depth builds abstraction and width builds variety.
+the context window is the working memory of the model.
+the vocabulary is the alphabet the model is allowed to speak.
+a character level model has a tiny vocabulary and long sequences.
+a word level model has a huge vocabulary and short sequences.
+byte pair encoding sits between the two and balances them.
+inference is just the forward pass run one token at a time.
+each new token is appended and fed back into the model.
+the model never plans ahead, it only picks the next token.
+and yet from that simple rule long and strange text appears.
+attention is a soft lookup over everything the model has read.
+the softmax decides how much of each value to take.
+a sharp distribution means the model is confident.
+a flat distribution means the model is unsure.
+training reduces surprise and surprise is measured in bits.
+a good model assigns high probability to the real next token.
+overfitting means the model memorized instead of generalized.
+a held out split tells you which of the two has happened.
+regularization trades a little training loss for better samples.
+the learning rate is the single most important number.
+too high and the loss explodes, too low and nothing moves.
+a warmup lets the optimizer find its footing.
+a cosine decay lets the model settle into a minimum.
+batches average away the noise in a single example.
+the gradient points downhill in a space of many dimensions.
+the optimizer takes a small step and then looks again.
+after enough steps the text starts to sound like the corpus.
+the transformer is a neural network that learns from text.
+it reads a sequence of tokens and predicts the next token.
+attention lets every token look back at the tokens before it.
+the model stacks blocks of attention and feed forward layers.
+training is a loop: sample a batch, compute the loss, step the optimizer.
+inference is just the forward pass run one token at a time.
+data is the teacher and the loss is the only lesson.
+attention is a soft lookup over everything the model has read.
+the context window is the working memory of the model.
+the model learns letters first, then words, then short phrases.
+each head learns a different pattern in the sequence.
+residual connections let the gradient flow through deep stacks.
+layer norm keeps the activations stable while the model trains.
+the query asks a question and the key answers it.
+the value carries the information that is mixed into the output.
+a causal mask hides the future so the model cannot cheat.
+softmax turns those scores into probabilities.
+cross entropy measures how surprised the model is by the true token.
+adam updates each weight with a running average of the gradient.
+the loss falls quickly at first and then slowly for a long time.
+and yet from that simple rule long and strange text appears.

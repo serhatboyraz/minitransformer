@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\ai\project\obj\Release\net10.0\MiniTransformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\ai\project\obj\Release\net10.0\MiniTransformer.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\ai\project\obj\Release\net10.0\MiniTransformer.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ai\project\obj\Release\net10.0\MiniTransformer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ai\project\bin\Release\net10.0\data\input.txt
+C:\Users\LENOVO\Desktop\ai\project\bin\Release\net10.0\MiniTransformer.exe
+C:\Users\LENOVO\Desktop\ai\project\bin\Release\net10.0\MiniTransformer.deps.json
+C:\Users\LENOVO\Desktop\ai\project\bin\Release\net10.0\MiniTransformer.runtimeconfig.json
+C:\Users\LENOVO\Desktop\ai\project\bin\Release\net10.0\MiniTransformer.dll
+C:\Users\LENOVO\Desktop\ai\project\bin\Release\net10.0\MiniTransformer.pdb
+C:\Users\LENOVO\Desktop\ai\project\obj\Release\net10.0\MiniTransformer.dll
+C:\Users\LENOVO\Desktop\ai\project\obj\Release\net10.0\refint\MiniTransformer.dll
+C:\Users\LENOVO\Desktop\ai\project\obj\Release\net10.0\MiniTransformer.pdb
+C:\Users\LENOVO\Desktop\ai\project\obj\Release\net10.0\MiniTransformer.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\ai\project\obj\Release\net10.0\ref\MiniTransformer.dll
